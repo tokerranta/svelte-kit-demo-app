@@ -1,0 +1,10 @@
+:root {
+	--color-danger: red;
+	--color-warning: orange;
+	--color-success: rgb(168, 250, 168);
+  --color-primary: rgba(175, 177, 255, 0.9);
+  --color-text: rgba(50, 50, 50, .5);
+  --color-secondary: rgba(175,177,255,0.5);
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
